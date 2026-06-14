@@ -1,0 +1,33 @@
+google.com, pub-4228179100830730, DIRECT, f08c47fec0942fa0
+aps.amazon.com,845e60d4-183c-421d-bb7b-be829fe6e3a4,RESELLER
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+smaato.com, 1100044650, RESELLER, 07bcf65f187117b4
+applovin.com, 3db1879167f4973e0cd89f6a15315dd4, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 191086, RESELLER
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+unity.com, 1444155, DIRECT, 96cabb5fbdde37a7
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
+pokkt.com, 6246, RESELLER, c45702d9311e25fd
+pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157384, RESELLER, 5d62403b186f2ace
+spotxchange.com, 117872, RESELLER, 7842df1d2fe2db34
+spotx.tv, 117872, RESELLER, 7842df1d2fe2db34
+openx.com, 540871654, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20014, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+reforge.in, 107, RESELLER
+velismedia.com, 725, RESELLER
+appnexus.com, 7353, RESELLER
+xandr.com, 7353, RESELLER
+google.com, pub-9906390458639046, RESELLER
+google.com, pub-8243031167474015, RESELLER
+telaria.com, rwd19-1444155, RESELLER, 1a4e959a1b50034a
+tremorhub.com, rwd19-1444155, RESELLER, 1a4e959a1b50034a
+google.com, pub-2067800044730756, RESELLER, f08c47fec0942fa0
+ad-generation.jp,12474,RESELLER,7f4ea9029ac04e53
+yahoo.com,55029,RESELLER,e1a5b5b6e3255540
+i-mobile.co.jp,70370, DIRECT
